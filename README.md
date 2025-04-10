@@ -1,4 +1,8 @@
-# C128 for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
+# C128 by Eriks5
+
+# Port to Poseidon BOARD with ep4cgx150
+
+https://github.com/MiSTer-devel/C128_MiSTer
 
 Based on [C64_MiSTer](https://github.com/MiSTer-devel/C64_MiSTer) by sorgelig.
 
