@@ -1,6 +1,7 @@
 # C128 by Eriks5
 
 # Port to Poseidon BOARD with ep4cgx150
+# THIS IS ONLY MISTER TEMPLATE, no POSEIDON available.
 
 https://github.com/MiSTer-devel/C128_MiSTer
 
